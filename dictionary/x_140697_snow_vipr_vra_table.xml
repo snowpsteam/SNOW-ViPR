@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="vRA_Table" max_length="40" name="x_140697_snow_vipr_vra_table" type="collection"/>
+</database>
